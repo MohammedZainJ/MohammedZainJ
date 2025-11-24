@@ -54,7 +54,8 @@ Building intelligent systems, scalable applications, and cloud-ready solutions.
 <p align="left">
   <a href="https://linkedin.com/in/mohammedzainj">LinkedIn</a> • 
   <a href="https://github.com/MohammedZainJ">GitHub</a> • 
-  <a href="mailto:mohammedzainj2004@gmail.com">Email</a>
+  <a href="mailto:mohammedzainj2004@gmail.com">Email</a> • 
+  <a href="https://drive.google.com/file/d/1vtiSdv2_RygqPKe9ksnLwdIO3Enjgufl/view">Resume</a>
 </p>
 
 ---
