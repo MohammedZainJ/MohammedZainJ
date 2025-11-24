@@ -8,21 +8,21 @@ Building intelligent systems, scalable applications, and cloud-ready solutions.
 ---
 
 ## 🚀 About Me
-- Full-Stack Developer with hands-on experience in MERN Stack, Python and AWS  
+- Full-Stack Developer with hands-on experience in MERN Stack, Python, and AWS  
 - Practical skills in Machine Learning, Deep Learning, and intelligent system integration  
-- Experienced in developing end-to-end web apps (frontend + backend + API + cloud)  
-- Strong understanding of CNNs, NLP basics, and model deployment workflows  
-- Passionate about clean code, performance, and solving real problems with tech  
+- Experienced in building end-to-end applications (frontend · backend · APIs · cloud)  
+- Strong understanding of CNNs, NLP basics, and model development workflows  
+- Passionate about clean code, performance, and solving real-world problems with tech  
 
 ---
 
-## 🧠 Tech Stack
+## 🛠 Tech Stack
 
 ### **Languages**
 `Java` • `Python` • `JavaScript` • `SQL`
 
 ### **Frontend**
-`React.js` • `HTML` • `CSS` • `Tailwind` 
+`React.js` • `HTML` • `CSS` • `Tailwind`
 
 ### **Backend**
 `Node.js` • `Express.js` • `REST APIs`
@@ -41,33 +41,36 @@ Building intelligent systems, scalable applications, and cloud-ready solutions.
 ## 📂 Featured Projects
 
 ### 🔹 **Real Estate Price Prediction (ML)**
-ML model achieving **86.29% accuracy**, automating property valuation using Python and Scikit-learn.
+Achieved **86.29% accuracy** using regression and automated property valuation with Python & Scikit-learn.
 
 ### 🔹 **Weather App (React + API)**
-Responsive React app displaying real-time weather data from OpenWeatherMap API.
+Responsive React application fetching real-time weather data via the OpenWeatherMap API.
 
 ### 🔹 **AWS Highly Available Web Server**
-Multi-AZ architecture delivering **99.9% uptime** using EC2, VPC, ALB, and Auto Scaling.
+Designed a multi-AZ cloud architecture achieving **99.9% uptime** using EC2, VPC, ALB, and Auto Scaling.
 
 ---
 
 ## ⚙️ GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=MohammedZainJ&show_icons=true&theme=default" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedZainJ&layout=compact&theme=default" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=MohammedZainJ&show_icons=true&theme=transparent" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=MohammedZainJ&layout=compact&theme=transparent" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohammedZainJ&theme=default" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=MohammedZainJ&theme=transparent" />
 </p>
 
 ---
 
 ## 🌐 Connect With Me
-- LinkedIn: https://linkedin.com/in/mohammedzainj  
-- GitHub: https://github.com/MohammedZainJ  
-- Email: **mohammedzainj2004@gmail.com**
+
+<p align="left">
+  <a href="https://linkedin.com/in/mohammedzainj">LinkedIn</a> • 
+  <a href="https://github.com/MohammedZainJ">GitHub</a> • 
+  <a href="mailto:mohammedzainj2004@gmail.com">Email</a>
+</p>
 
 ---
 
