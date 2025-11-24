@@ -8,7 +8,7 @@ Building intelligent systems, scalable applications, and cloud-ready solutions.
 ---
 
 ## 🚀 About Me
-- Full-Stack Developer with hands-on experience in React, Node.js, Python, and AWS  
+- Full-Stack Developer with hands-on experience in MERN Stack, Python and AWS  
 - Practical skills in Machine Learning, Deep Learning, and intelligent system integration  
 - Experienced in developing end-to-end web apps (frontend + backend + API + cloud)  
 - Strong understanding of CNNs, NLP basics, and model deployment workflows  
@@ -19,10 +19,10 @@ Building intelligent systems, scalable applications, and cloud-ready solutions.
 ## 🧠 Tech Stack
 
 ### **Languages**
-`Java` • `Python` • `JavaScript` • `TypeScript` • `SQL`
+`Java` • `Python` • `JavaScript` • `SQL`
 
 ### **Frontend**
-`React.js` • `HTML` • `CSS` • `Tailwind` • `Material UI`
+`React.js` • `HTML` • `CSS` • `Tailwind` 
 
 ### **Backend**
 `Node.js` • `Express.js` • `REST APIs`
